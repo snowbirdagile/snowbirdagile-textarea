@@ -1,7 +1,7 @@
 {
   "name": "snowbirdagile-textarea",
   "scope": "@snowbirdagile",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Custom build of ckeditor5-classc-build for snowbird agile",
   "keywords": [
     "ckeditor5-build",

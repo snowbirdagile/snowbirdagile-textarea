@@ -15,17 +15,17 @@ npm install --save snowbirdagile-textarea
 
 
 Add following configurations for s3 upload
-```js
-  config {
+```
+  config:{
     //
-    s3: {
-               bucket: 'bucket-name',
-               accessKey: 'access-key-id',
-               secretKey: 'secret-key',
-               region: 'region',
-               apiVersion: 'api-version',
-               acl: 'ACL',
-               folderName: 'folder to save files'
+    s3:{
+    	bucket: 'bucket-name',
+        accessKey: 'access-key-id',
+        secretKey: 'secret-key',
+        region: 'region',
+        apiVersion: 'api-version',
+        acl: 'ACL',
+        folderName: 'folder to save files'
        }
   }
 ```
